@@ -7,7 +7,7 @@ struct score_time {
     int minute;
 };
 
-
+//this line is for github, wether it changes or not when i upload this file via gui
 int main()
 {//!!!!!cf)scanf는 공백(스페이스바, 탭, 엔터)를 기준으로 데이터를 구분한다.!!!!
     //https://wodonggun.github.io/wodonggun.github.io/c/c++/c%EC%96%B8%EC%96%B4-%EB%B2%84%ED%8D%BC.html
