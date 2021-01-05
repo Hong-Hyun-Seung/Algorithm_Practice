@@ -35,7 +35,7 @@ int main()
 	    free(arr);
 	    return 0;
 	}
-	arr_size = arr_size + 3;//배열의 크기를 3늘려주는 역할, new_arr함수에서 size인자에 박힌다 30번째 줄에서
+	arr_size = arr_size + 3;
     }
     return 0;
 }
